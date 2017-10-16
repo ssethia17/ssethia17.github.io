@@ -1,0 +1,113 @@
+@import '960_12_col.css';
+@import url('http://fonts.googleapis.com/css?family=Fjalla+One|Roboto Slab|Karma|Vollkorn|Old Standard TT|');
+
+body 
+{ 
+    background-color: #f7f7f7; 
+    font-family: vollkorn; 
+    font-size: 25px;
+    height: auto;
+    padding-top: 50px;
+    padding-right: 50px;
+    text-align: center;
+    list-style-type: none;
+    padding: 0px;   
+}
+
+a 
+{
+    text-decoration: none;
+    padding-bottom: 0px;
+}
+
+.ul
+{
+    list-style-type: none;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    
+}
+
+li 
+{
+    display:inline-block;
+    padding-top: 50px;
+    padding-left: 65px;
+    padding-right: 65px;
+    padding-bottom: 75px;
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+hr 
+{ 
+    background: #fff;
+    width: 1000px;
+    height: 0px;
+    margin-left: 5em 0;
+    margin-right: 5em0;
+}
+
+.common_item 
+{ 
+    margin:0px;
+    padding: 8px;
+    border: 3px;
+    border-radius: 10px;
+    width: 120px;
+    text-align: center;
+    color:#005b96;
+    font-family: fjalla one;
+    padding-top: 50px;
+    
+}
+
+#home_name 
+{   
+    margin: 10px;
+    padding-top: 0px;
+    font-family: Fjalla One;
+    color: #66bbae;	
+}
+
+.about page 
+{ 
+  margin: 100px;
+    
+}
+
+img.picture 
+{ 
+    
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+
+}
+    
+hr.line 
+{ 
+    width: 1000px;
+    height: 0px;
+    margin-left: 20em 0;
+    margin-right: 20em0;
+    padding-top: 0px;
+
+}
+
+p 
+{ 
+    
+    font-family: Old Standard TT;
+    font-size: 15px;
+    font-weight:lighter;
+    text-align: left;  
+    text-align: justify;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+
